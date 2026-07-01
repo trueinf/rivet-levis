@@ -13,7 +13,7 @@ export default function PostVisual({ moment: m }) {
             position: 'absolute', inset: 0,
             backgroundImage: `url(${url})`,
             backgroundSize: 'cover',
-            backgroundPosition: 'center top',
+            backgroundPosition: 'center',
             zIndex: 0,
           }}
         />
